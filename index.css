@@ -45,14 +45,14 @@
 
 #tableau {
     float: right;
-    background-color:#99FF99;
+    background-color:#66FF99;
     text-align: center;
     width: 50%;
-    height: 350px;
+    height: 340px;
     font-size: 25px;
 }
 
 td {
-    padding: 50px;
-    font-size: 20px;
+    padding: 46px;
+    font-size: 26px;
 }
